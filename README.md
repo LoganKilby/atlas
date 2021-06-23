@@ -1,3 +1,5 @@
+![atlas](https://user-images.githubusercontent.com/23220511/123022435-6acacf80-d39b-11eb-9aa8-7710ecb5b4f9.png)
+
 # atlas
 Texture atlas generation tool written in C for the .png file format
 
