@@ -1,0 +1,9 @@
+
+*.ctm
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.ipch
+*.db
+build/.vs/atlas/v15/.suo
