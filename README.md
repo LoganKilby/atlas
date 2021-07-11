@@ -3,9 +3,15 @@
 # atlas
 Texture atlas generation tool written in C for the .png file format
 
-(additional formats potentially suported in the future)
+# Formats
+* PNG
+* All I have needed so far personally are png files, but I will be adding support for more as I need them
 
-cmd line usage:
-`atlas [ format ]`
+# Depenencies (included)
+* stb_rect_pack (Sean Barrett)
+* stb_image & stb_image_write
+* cute_files
 
-Compiles all images of the specified format located in the working directory into a single image
+# Usage
+* Add atlas.exe to the system PATH
+* Command line: `atlas [ format ]` compiles all images of the specified format located in the working directory into a single image
