@@ -9,7 +9,7 @@ Texture atlas generation tool written in C for the .png file format
 
 # Depenencies (included)
 * stb_rect_pack (Sean Barrett)
-* stb_image & stb_image_write
+* stb_image & stb_image_write (Sean Barrett)
 * cute_files
 
 # Usage
